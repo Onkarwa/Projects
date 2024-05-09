@@ -1,5 +1,5 @@
 # Projects
-Project Title: Simple Registration Form HTML/CSS
+Simple Registration Form HTML/CSS
 
 Description:
 This project showcases a simple registration form built using HTML and CSS. 
